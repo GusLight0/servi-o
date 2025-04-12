@@ -69,16 +69,15 @@ address {
 
 address h1 {
     display: flex;
-    justify-content: center;
+    margin-left: 1rem;
     font-size: 1.5rem;
 }
 
 .smartfone {
-    display: inline-block;
+    display: inline-flex;
     font-size: 13px;
     max-width: 100vw;
-    transform: translateX(200%);
-    margin: 10px;
+    margin: 15px;
 }
 
 .smartfone img {
